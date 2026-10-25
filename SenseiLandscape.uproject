@@ -40,6 +40,10 @@
 		{
 			"Name": "NaniteDisplacedMesh",
 			"Enabled": true
+		},
+		{
+			"Name": "ProceduralVegetationEditor",
+			"Enabled": true
 		}
 	]
 }
